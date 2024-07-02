@@ -1,0 +1,13 @@
+C:\Users\anhel\source\repos\OOP 15\OOP 15\bin\Debug\OOP 15.exe.config
+C:\Users\anhel\source\repos\OOP 15\OOP 15\bin\Debug\OOP 15.exe
+C:\Users\anhel\source\repos\OOP 15\OOP 15\bin\Debug\OOP 15.pdb
+C:\Users\anhel\source\repos\OOP 15\OOP 15\obj\Debug\OOP 15.csproj.AssemblyReference.cache
+C:\Users\anhel\source\repos\OOP 15\OOP 15\obj\Debug\OOP 15.csproj.SuggestedBindingRedirects.cache
+C:\Users\anhel\source\repos\OOP 15\OOP 15\obj\Debug\OOP_15.Properties.Resources.resources
+C:\Users\anhel\source\repos\OOP 15\OOP 15\obj\Debug\OOP 15.csproj.GenerateResource.cache
+C:\Users\anhel\source\repos\OOP 15\OOP 15\obj\Debug\OOP 15.csproj.CoreCompileInputs.cache
+C:\Users\anhel\source\repos\OOP 15\OOP 15\obj\Debug\OOP 15.exe
+C:\Users\anhel\source\repos\OOP 15\OOP 15\obj\Debug\OOP 15.pdb
+C:\Users\anhel\source\repos\OOP 15\OOP 15\obj\Debug\OOP_15.FirstMain.resources
+C:\Users\anhel\source\repos\OOP 15\OOP 15\obj\Debug\OOP_15.Task1.resources
+C:\Users\anhel\source\repos\OOP 15\OOP 15\obj\Debug\OOP_15.Task2.resources
