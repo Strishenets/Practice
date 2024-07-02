@@ -1,0 +1,7 @@
+C:\AAAAAA\Навчання\Курс2Семестр2\ООП\lab_10_2_oop\lab_10_2_oop\bin\Debug\lab_10_2_oop.exe.config
+C:\AAAAAA\Навчання\Курс2Семестр2\ООП\lab_10_2_oop\lab_10_2_oop\bin\Debug\lab_10_2_oop.exe
+C:\AAAAAA\Навчання\Курс2Семестр2\ООП\lab_10_2_oop\lab_10_2_oop\bin\Debug\lab_10_2_oop.pdb
+C:\AAAAAA\Навчання\Курс2Семестр2\ООП\lab_10_2_oop\lab_10_2_oop\obj\Debug\lab_10_2_oop.csproj.AssemblyReference.cache
+C:\AAAAAA\Навчання\Курс2Семестр2\ООП\lab_10_2_oop\lab_10_2_oop\obj\Debug\lab_10_2_oop.csproj.CoreCompileInputs.cache
+C:\AAAAAA\Навчання\Курс2Семестр2\ООП\lab_10_2_oop\lab_10_2_oop\obj\Debug\lab_10_2_oop.exe
+C:\AAAAAA\Навчання\Курс2Семестр2\ООП\lab_10_2_oop\lab_10_2_oop\obj\Debug\lab_10_2_oop.pdb
