@@ -1,0 +1,11 @@
+C:\Users\anhel\source\repos\OOP17\OOP17\bin\Debug\OOP17.exe.config
+C:\Users\anhel\source\repos\OOP17\OOP17\bin\Debug\OOP17.exe
+C:\Users\anhel\source\repos\OOP17\OOP17\bin\Debug\OOP17.pdb
+C:\Users\anhel\source\repos\OOP17\OOP17\obj\Debug\OOP17.csproj.AssemblyReference.cache
+C:\Users\anhel\source\repos\OOP17\OOP17\obj\Debug\OOP17.csproj.SuggestedBindingRedirects.cache
+C:\Users\anhel\source\repos\OOP17\OOP17\obj\Debug\OOP17.Form1.resources
+C:\Users\anhel\source\repos\OOP17\OOP17\obj\Debug\OOP17.Properties.Resources.resources
+C:\Users\anhel\source\repos\OOP17\OOP17\obj\Debug\OOP17.csproj.GenerateResource.cache
+C:\Users\anhel\source\repos\OOP17\OOP17\obj\Debug\OOP17.csproj.CoreCompileInputs.cache
+C:\Users\anhel\source\repos\OOP17\OOP17\obj\Debug\OOP17.exe
+C:\Users\anhel\source\repos\OOP17\OOP17\obj\Debug\OOP17.pdb
